@@ -10,4 +10,5 @@ Next.js, Tailwind CSS, Zustand, ShadCN
 5. Add a "count-up animation" in the statistics section    
 ## Video Demostration 
 ## Submitted By  
-Ronak Surana  <a href="https://www.linkedin.com/in/ronak-surana-944550205/">Linkedin Profile</a> 
+Ronak Surana  <a href="https://www.linkedin.com/in/ronak-surana-944550205/">Linkedin Profile</a>   
+Resume Link <a href="https://drive.google.com/file/d/1gmG_PV9IUqGuR_IHlnAF5yVS5icsLRid/view?usp=sharing">Link</a>
